@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/HighCastleTech/bin
+/HighCastleTech/obj/Debug
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
+/bin
+/node_modules
+/obj/Debug
+/package-lock.json
