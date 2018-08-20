@@ -46,6 +46,10 @@
     <Content Include="css\creative.css" />
     <Content Include="css\creative.min.css" />
     <Content Include="img\headerBK.jpg" />
+    <Content Include="img\portfolio\fullsize\analytics.jpg" />
+    <Content Include="img\portfolio\fullsize\BI.jpg" />
+    <Content Include="img\portfolio\fullsize\homeoffice.jpg" />
+    <Content Include="img\portfolio\fullsize\Meeting.jpg" />
     <Content Include="img\portfolio\fullsize\PowerBI.png" />
     <Content Include="img\portfolio\fullsize\1.jpg" />
     <Content Include="img\portfolio\fullsize\2.jpg" />
@@ -53,6 +57,7 @@
     <Content Include="img\portfolio\fullsize\4.jpg" />
     <Content Include="img\portfolio\fullsize\5.jpg" />
     <Content Include="img\portfolio\fullsize\6.jpg" />
+    <Content Include="img\portfolio\fullsize\women.jpg" />
     <Content Include="img\portfolio\thumbnails\1.jpg" />
     <Content Include="img\portfolio\thumbnails\2.jpg" />
     <Content Include="img\portfolio\thumbnails\3.jpg" />
@@ -60,7 +65,12 @@
     <Content Include="img\portfolio\thumbnails\5.jpg" />
     <Content Include="img\portfolio\thumbnails\6.jpg" />
     <Content Include="img\header.jpg" />
+    <Content Include="img\portfolio\thumbnails\analytics.jpg" />
+    <Content Include="img\portfolio\thumbnails\BI.jpg" />
+    <Content Include="img\portfolio\thumbnails\homeoffice.jpg" />
+    <Content Include="img\portfolio\thumbnails\Meeting.jpg" />
     <Content Include="img\portfolio\thumbnails\PowerBI.png" />
+    <Content Include="img\portfolio\thumbnails\women.jpg" />
     <Content Include="index.html" />
     <Content Include="js\creative.js" />
     <Content Include="js\creative.min.js" />
