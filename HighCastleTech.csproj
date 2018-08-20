@@ -50,13 +50,13 @@
     <Content Include="img\portfolio\fullsize\BI.jpg" />
     <Content Include="img\portfolio\fullsize\conference.jpg" />
     <Content Include="img\portfolio\fullsize\homeoffice.jpg" />
-    <Content Include="img\portfolio\fullsize\Meeting.jpg" />
     <Content Include="img\portfolio\fullsize\1.jpg" />
     <Content Include="img\portfolio\fullsize\2.jpg" />
     <Content Include="img\portfolio\fullsize\3.jpg" />
     <Content Include="img\portfolio\fullsize\4.jpg" />
     <Content Include="img\portfolio\fullsize\5.jpg" />
     <Content Include="img\portfolio\fullsize\6.jpg" />
+    <Content Include="img\portfolio\fullsize\meeting.jpg" />
     <Content Include="img\portfolio\fullsize\women.jpg" />
     <Content Include="img\portfolio\thumbnails\1.jpg" />
     <Content Include="img\portfolio\thumbnails\2.jpg" />
@@ -69,7 +69,7 @@
     <Content Include="img\portfolio\thumbnails\BI.jpg" />
     <Content Include="img\portfolio\thumbnails\conference.jpg" />
     <Content Include="img\portfolio\thumbnails\homeoffice.jpg" />
-    <Content Include="img\portfolio\thumbnails\Meeting.jpg" />
+    <Content Include="img\portfolio\thumbnails\meeting.jpg" />
     <Content Include="img\portfolio\thumbnails\women.jpg" />
     <Content Include="index.html" />
     <Content Include="js\creative.js" />
