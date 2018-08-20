@@ -45,7 +45,8 @@
   <ItemGroup>
     <Content Include="css\creative.css" />
     <Content Include="css\creative.min.css" />
-    <Content Include="img\header.jpg" />
+    <Content Include="img\headerBK.jpg" />
+    <Content Include="img\portfolio\fullsize\PowerBI.png" />
     <Content Include="img\portfolio\fullsize\1.jpg" />
     <Content Include="img\portfolio\fullsize\2.jpg" />
     <Content Include="img\portfolio\fullsize\3.jpg" />
@@ -58,6 +59,8 @@
     <Content Include="img\portfolio\thumbnails\4.jpg" />
     <Content Include="img\portfolio\thumbnails\5.jpg" />
     <Content Include="img\portfolio\thumbnails\6.jpg" />
+    <Content Include="img\header.jpg" />
+    <Content Include="img\portfolio\thumbnails\PowerBI.png" />
     <Content Include="index.html" />
     <Content Include="js\creative.js" />
     <Content Include="js\creative.min.js" />
